@@ -1,0 +1,48 @@
+어쩐지 좋은일이 생길것 같은 저녁 — HD 리마스터 (비공식 팬 제작) 저작권 안내
+==========================================================================
+
+이 배포판은 1997년 T.G Entertainment 가 만든 DOS 게임
+「어쩐지 좋은일이 생길것 같은 저녁」을 좋아하는 팬이 개인적으로 다시 만든
+비공식·비영리 리마스터입니다. 원저작권자와는 관계가 없으며, 판매하지 않습니다.
+
+1. 원작에 대한 권리
+   - 게임의 이름, 이야기, 캐릭터, 그림, 효과음, 원작 음악, 영상 등 원작에서 온
+     모든 자료의 저작권은 원저작권자에게 있습니다.
+   - 배포자는 원작과 이 배포판에 들어 있는 원작 자료에 대해 어떠한 권리도
+     가지고 있지 않으며, 주장하지도 않습니다.
+
+2. 배포자에게 있는 권리
+   - 이 리마스터를 위해 새로 만든 배경음악(리마스터 배경음)의 저작권만
+     배포자에게 있습니다.
+
+3. 함께 쓴 것
+   - 글꼴: 넥슨코리아의 무료 글꼴 DNF ForgedBlade, DNF BitBit
+     (지적 재산권은 넥슨코리아에 있습니다. 글꼴_저작권.txt 참고)
+   - 게임 엔진: Godot Engine (MIT 라이선스)
+     Copyright (c) 2014-present Godot Engine contributors.
+     Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+4. 삭제 요청
+   - 원저작권자 또는 관련된 분이 요청하시면 배포를 바로 멈추고,
+     공개한 모든 자료를 삭제합니다.
+
+5. 사용 조건
+   - 무료로만 나눌 수 있습니다. 이 배포판이나 그 일부를 팔거나 돈을 받고
+     나누지 마세요.
+
+
+Copyright notice (English)
+--------------------------
+This is an unofficial, non-commercial fan remaster of the 1997 DOS game
+"Eojjeonji Joeun-iri Saenggil Geot Gateun Jeonyeok" by T.G Entertainment.
+It is not affiliated with the original rights holders and is not for sale.
+
+- All rights to the original game and every asset taken from it (title, story,
+  characters, graphics, sound effects, original music, video) belong to their
+  respective owners. The distributor claims no rights to them.
+- The distributor holds the copyright only to the newly composed remaster
+  background music.
+- Fonts: DNF ForgedBlade / DNF BitBit (c) NEXON Korea. Engine: Godot Engine (MIT).
+- On request from the rights holders or anyone concerned, distribution will stop
+  immediately and all published materials will be removed.
+- Free distribution only. Do not sell this package or any part of it.
