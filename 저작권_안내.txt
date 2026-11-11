@@ -21,6 +21,7 @@
    - 게임 엔진: Godot Engine (MIT 라이선스)
      Copyright (c) 2014-present Godot Engine contributors.
      Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+   - KOF 98 버전의 신고를 이식하였습니다.
 
 4. 삭제 요청
    - 원저작권자 또는 관련된 분이 요청하시면 배포를 바로 멈추고,
