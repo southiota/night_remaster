@@ -12,6 +12,7 @@ FEED = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL}"
 KEEP = "AI 비공식 리마스터"
 LONG_MAX, SHORT_MAX = 4, 3
 START, END = "<!-- LATEST_VIDEOS_START -->", "<!-- LATEST_VIDEOS_END -->"
+TOP_START, TOP_END = "<!-- TOP_VIDEO_START -->", "<!-- TOP_VIDEO_END -->"
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
 
@@ -49,6 +50,15 @@ def main(path="README.md"):
         new = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: block, text, flags=re.S)
     else:
         new = text.rstrip() + "\n\n" + block + "\n"
+    # top of README: the newest long video, big thumbnail (night 11-19)
+    if longs and TOP_START in new and TOP_END in new:
+        d, v, t = longs[0]
+        top = "\n".join([TOP_START,
+                         f"[![{t}](https://i.ytimg.com/vi/{v}/hqdefault.jpg)](https://www.youtube.com/watch?v={v})",
+                         "",
+                         f"▶ **최신 개발 영상 ({d})**: [{t}](https://www.youtube.com/watch?v={v})",
+                         TOP_END])
+        new = re.sub(re.escape(TOP_START) + r".*?" + re.escape(TOP_END), lambda _: top, new, flags=re.S)
     if new != text:
         open(path, "w", encoding="utf-8").write(new)
         print("README updated:", len(longs[:LONG_MAX]), "long,", len(shorts[:SHORT_MAX]), "shorts")

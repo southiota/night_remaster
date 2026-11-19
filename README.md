@@ -1,5 +1,11 @@
 # 어쩐지 좋은일이 생길것 같은 저녁 — HD 리마스터
 
+<!-- TOP_VIDEO_START -->
+[![어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://i.ytimg.com/vi/mLfCON8rAIo/hqdefault.jpg)](https://www.youtube.com/watch?v=mLfCON8rAIo)
+
+▶ **최신 개발 영상 (2026-11-18)**: [어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://www.youtube.com/watch?v=mLfCON8rAIo)
+<!-- TOP_VIDEO_END -->
+
 1997년 T.G Entertainment 의 DOS 벨트스크롤 액션 게임 「어쩐지 좋은일이 생길것 같은 저녁」을
 팬이 개인적으로 다시 만든 **비공식·비영리 리마스터**입니다. 원저작권자와는 관계가 없으며, 판매하지 않습니다.
 
