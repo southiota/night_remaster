@@ -1,0 +1,25 @@
+# .github/workflows/latest-videos.yml — README 「최신 개발 영상」 자동 갱신 (고전리마_유튜브팀 제공, 2026-11-19)
+name: latest-videos
+on:
+  schedule:
+    - cron: "17 23 * * *"   # 매일 08:17 KST (정각 피함)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/update_videos.py README.md
+      - name: commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "README: 최신 개발 영상 자동 갱신"
+            git push
+          fi

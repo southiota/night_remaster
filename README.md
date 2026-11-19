@@ -49,6 +49,22 @@
 | Alt+N | 다음 스테이지 |
 | Alt+S | 다음 구역 |
 
+## 개발 영상
+<!-- LATEST_VIDEOS_START -->
+
+### 최신 개발 영상 (매일 자동 갱신)
+
+- 2026-11-18 [어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://www.youtube.com/watch?v=mLfCON8rAIo)
+- 2026-11-13 [보스가 쉽다길래 열어 봤더니 연속기 9개 랜덤, 어쩐지 저녁 AI 비공식 리마스터](https://www.youtube.com/watch?v=4QuV1ZnYo3U)
+- 2026-11-11 [신고킥 사기다! 킹오파 신고로 어쩐지 저녁 배포 전 최종 테스트 | AI 비공식 리마스터](https://www.youtube.com/watch?v=XGELxaeKwIY)
+- 2026-11-07 [킹오파 신고 첫 실전, 한국의 매운맛만 보고 갑니다 (AI 비공식 리마스터)](https://www.youtube.com/watch?v=KjMsO-uaYmc)
+
+쇼츠: [왜 고전게임 보스는 안 움직일까? AI 비공식 리마스터로 비교](https://www.youtube.com/shorts/9yVEVmOX9WE) · [쏘가리 잘 만났다](https://www.youtube.com/shorts/VlE27Go7KRU) · [색 바꿨더니 동네 양아치](https://www.youtube.com/shorts/rrvMALRQN8o)
+
+전체 영상: [유튜브 고전리마스터](https://www.youtube.com/channel/UCsccQogob4VEzw6-lbLhcig)
+
+<!-- LATEST_VIDEOS_END -->
+
 ## 저작권
 자세한 내용은 [저작권_안내.txt](저작권_안내.txt) 를 보세요.
 - 원작과 원작에서 온 모든 자료의 저작권은 원저작권자에게 있으며, 배포자는 어떠한 권리도 주장하지 않습니다.
