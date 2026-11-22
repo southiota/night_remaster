@@ -62,9 +62,8 @@
 
 - 2026-11-18 [어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://www.youtube.com/watch?v=mLfCON8rAIo)
 - 2026-11-13 [보스가 쉽다길래 열어 봤더니 연속기 9개 랜덤, 어쩐지 저녁 AI 비공식 리마스터](https://www.youtube.com/watch?v=4QuV1ZnYo3U)
-- 2026-11-11 [신고킥 사기다! 킹오파 신고로 어쩐지 저녁 배포 전 최종 테스트 | AI 비공식 리마스터](https://www.youtube.com/watch?v=XGELxaeKwIY)
 
-쇼츠: [종석의 콤보 9개는 주사위로](https://www.youtube.com/shorts/GrE95TZHd4s) · [발차기 여섯 번 연타](https://www.youtube.com/shorts/P9-f6me82h0) · [왜 고전게임 보스는 안 움직일까? AI 비공식 리마스터로 비교](https://www.youtube.com/shorts/9yVEVmOX9WE)
+쇼츠: [고전 액션 게임 헬 보스](https://www.youtube.com/shorts/3sJT8maNopI) · [종석의 콤보 9개는 주사위로](https://www.youtube.com/shorts/GrE95TZHd4s) · [발차기 여섯 번 연타](https://www.youtube.com/shorts/P9-f6me82h0)
 
 전체 영상: [유튜브 고전리마스터](https://www.youtube.com/channel/UCsccQogob4VEzw6-lbLhcig)
 
