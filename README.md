@@ -1,9 +1,9 @@
 # 어쩐지 좋은일이 생길것 같은 저녁 — HD 리마스터
 
 <!-- TOP_VIDEO_START -->
-[![어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://i.ytimg.com/vi/mLfCON8rAIo/hqdefault.jpg)](https://www.youtube.com/watch?v=mLfCON8rAIo)
+[![어쩐지 저녁 AI 비공식 리마스터 배포, 적 2배 헬2X 모드까지](https://i.ytimg.com/vi/ZCTfXWT0zsI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZCTfXWT0zsI)
 
-▶ **최신 개발 영상 (2026-11-18)**: [어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://www.youtube.com/watch?v=mLfCON8rAIo)
+▶ **최신 개발 영상 (2026-11-25)**: [어쩐지 저녁 AI 비공식 리마스터 배포, 적 2배 헬2X 모드까지](https://www.youtube.com/watch?v=ZCTfXWT0zsI)
 <!-- TOP_VIDEO_END -->
 
 1997년 T.G Entertainment 의 DOS 벨트스크롤 액션 게임 「어쩐지 좋은일이 생길것 같은 저녁」을
@@ -60,6 +60,7 @@
 
 ### 최신 개발 영상 (매일 자동 갱신)
 
+- 2026-11-25 [어쩐지 저녁 AI 비공식 리마스터 배포, 적 2배 헬2X 모드까지](https://www.youtube.com/watch?v=ZCTfXWT0zsI)
 - 2026-11-18 [어쩐지 저녁 헬 난이도 켰더니 잡기도 무시하는 보스, AI 비공식 리마스터 중간 점검](https://www.youtube.com/watch?v=mLfCON8rAIo)
 - 2026-11-13 [보스가 쉽다길래 열어 봤더니 연속기 9개 랜덤, 어쩐지 저녁 AI 비공식 리마스터](https://www.youtube.com/watch?v=4QuV1ZnYo3U)
 
